@@ -4,4 +4,6 @@ iPoduino is a music player that plays three songs/pieces:
     Keyboard Cat's Iconic Keyboard Solo (2007)
     Vanessa Carlton's "A Thousand Miles" (2002)
 
+Demo: https://youtu.be/GxeAPmE0bw4
+
 ![Screenshot](iPoduinoSchematic.png)
