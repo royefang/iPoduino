@@ -6,5 +6,5 @@ iPoduino is a music player that plays three songs/pieces:
 
 Demo: https://youtu.be/GxeAPmE0bw4
 
-![Screenshot](iPoduinoSchematic.png)
-![Screenshot](steve_jobs.jpg)
+![schematic](./media/iPoduinoSchematic.png)
+![steve](./media/steve_jobs.jpg)
